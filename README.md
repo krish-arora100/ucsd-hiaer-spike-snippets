@@ -1,6 +1,6 @@
 # HiAER-Spike FPGA Deployment
 
-Code for training, quantizing, and converting spiking and analog neural networks to run on **HiAER-Spike**, an FPGA-based neuromorphic computing platform built at UCSD's Integrated Systems Neuroengineering Lab (Cauwenberghs Lab) and published in *npj Unconventional Computing* (2026). This picked up after the lab's earlier EIC/PIC chip work ([hardware-constrained-nas](https://github.com/krish-arora100/hardware-constrained-nas)) once the team moved to HiAER-Spike's larger, less hardware-constrained architecture.
+Code for training, quantizing, and converting spiking and analog neural networks to run on **HiAER-Spike**, an FPGA-based neuromorphic computing platform built at UCSD's Integrated Systems Neuroengineering Lab (Cauwenberghs Lab) and published in *npj Unconventional Computing* (2026). This picked up after the lab's earlier EIC/PIC chip work ([repo](https://github.com/krish-arora100/ucsd-hiaer-spike-snippets)) once the team moved to HiAER-Spike's larger, less hardware-constrained architecture.
 
 This isn't a full record of all files, just a few key versions. Full codebase: [hs_api](https://github.com/Integrated-Systems-Neuroengineering/hs_api).
 
